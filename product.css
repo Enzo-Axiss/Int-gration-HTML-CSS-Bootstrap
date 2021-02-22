@@ -1,0 +1,79 @@
+h1 {
+    text-align: center;
+}
+
+.lifestyle {
+    color: blue;
+    font-family: Montserrat (TT) regular;
+    font-size: 14pt;
+ 
+}
+
+#popproduct {
+    background-color:#232323
+}
+
+.playfair {
+    font-family: Playfair Display;
+}
+.price-sale {
+    text-decoration: line-through;
+    color: #9F9F9F;
+}
+
+body {
+    background-color: blue;
+}
+
+.red {
+    color: red;
+}
+
+.price {
+    color: blue;
+}
+
+.produit {
+    font-family: Playfair Display;
+    font-size: 30pt;
+}
+
+.monserrat {
+    font-family: Montserrat-regular;
+}
+
+#fond {
+    background-color: ivory;
+    font-size: 12pt;
+;
+}
+
+h3 {
+    font-size: 14pt;
+    font-style: bold;
+    font-family: Montserrat (TT);
+}
+
+
+.colors-product-white {
+    background-color:white ;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #9F9F9F;
+    border-width: 0.25mm;
+    }
+    .colors-product-red {
+    color: #F44336;
+    background-color:#f44336;
+    border-radius: 20px;
+    }
+    .colors-product-yellow {
+    color: #FFEB3B;
+    background-color: #FFEB3B ;
+    border-radius: 20px;
+    }
+    .colors-product-green {
+    color: #4CAF50;
+    background-color: #4CAF50 ;
+    border-radius: 40px;
+    }
